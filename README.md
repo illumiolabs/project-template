@@ -21,7 +21,7 @@ Also mention here which major features stand out or a link to the [CHANGELOG](CH
 
 **Project Screenshot** shows a screenshot or live gif, etc for the project; e.g.,
 
-![](https://raw.githubusercontent.com/illumiolabs/project-template/master/ApplicationVulnerabilityMap.jpg)
+![](images/applicationvulnerabilitymap.jpg)
 
 
 ## Dependencies
