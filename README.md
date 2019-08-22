@@ -1,5 +1,8 @@
 # Project Template Instructions
 
+[![Slack](images/slack.svg)](http://slack.illumiolabs.com)
+[![License](images/license.svg)](LICENSE)
+
 1. Create a new project using project-template repo as shown here: https://help.github.com/en/articles/creating-a-repository-from-a-template
 1. Update the README.md with things specific to the project.
 
