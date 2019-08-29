@@ -58,6 +58,15 @@ If you have questions, please use slack for asking them.
 If you have issues, bug reports, etc, please file an issue in this repository's Issue Tracker.
 If possible each module should have a respective README.md in it to explain the module.
 
+## Support
+
+The **Project** is released and distributed as open source
+software subject to the [LICENSE](LICENSE). Illumio has no obligation or responsibility related to
+the **Project** with respect to support, maintenance,
+availability, security or otherwise. Please read the entire [LICENSE](LICENSE) for additional
+information regarding the permissions and limitations. You can engage with the author & contributors
+team and community on SLACK.
+
 ## Contributing
 
 Instructions on how to contribute:  [CONTRIBUTING](CONTRIBUTING.md).
